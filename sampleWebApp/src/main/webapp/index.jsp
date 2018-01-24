@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Id Generator Bla Bla bla Third version</h2>
+<h2>Welcome to Id Generator fourth version Now run in Docker $(hostname)</h2>
 </body>
 </html>
